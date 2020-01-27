@@ -1,5 +1,5 @@
-,horizon,investment_amt,model_id,model_name,model_type,risk_profile,risk_score
-0,12,584314,3019,Strategy Model 1,Retirement,5,7.763210902718149
-1,17,741992,3677,Strategy Model 2,Retirement,5,16.717347887787444
-2,18,258466,9414,Strategy Model 3,Retirement,2,13.818571661629484
-3,19,957000,6418,Strategy Model 4,Retirement,1,3.382945429649312
+,account_name,inv_horizon,inv_obj_least_imp,inv_obj_most_imp,inv_obj_some_imp,inv_obj_very_imp,investment_amt,liquidity_need,model_id,model_name,primary_fin_need,risk_profile,risk_tolerance,volatility
+0,Sonia Kline,Less than 2 Years,0,1,0,4,607536,Lump Sum,3019,Income Strategy 1,Retirement,2,1,8.04
+1,Francisco Gill MD,Less than 2 Years,0,4,1,3,188257,2 to 5 Years,3677,Speculation Strategy 2,Charitable,6,1,7.06
+2,Alicia Green,11 to 20 Years,0,4,0,3,833401,Less than 2 Years,9414,Speculation Strategy 3,Charitable,7,2,9.61
+3,Jonathan Mcmahon,Less than 2 Years,0,4,0,1,881061,Lump Sum,6418,Speculation Strategy 4,Charitable,6,2,5.97

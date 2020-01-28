@@ -1,5 +1,5 @@
 ,account_name,inv_horizon,inv_obj_least_imp,inv_obj_most_imp,inv_obj_some_imp,inv_obj_very_imp,investment_amt,liquidity_need,model_id,model_name,primary_fin_need,risk_profile,risk_tolerance,volatility
-0,Sonia Kline,Less than 2 Years,0,1,0,4,607536,Lump Sum,3019,Income Strategy 1,Retirement,2,1,8.04
-1,Francisco Gill MD,Less than 2 Years,0,4,1,3,188257,2 to 5 Years,3677,Speculation Strategy 2,Charitable,6,1,7.06
-2,Alicia Green,11 to 20 Years,0,4,0,3,833401,Less than 2 Years,9414,Speculation Strategy 3,Charitable,7,2,9.61
-3,Jonathan Mcmahon,Less than 2 Years,0,4,0,1,881061,Lump Sum,6418,Speculation Strategy 4,Charitable,6,2,5.97
+0,Regina Morgan,11 to 20 Years,1,2,4,0,720739,Lump Sum,3019,Aggressive Income Strategy 1,Current Income,3,2,19.2
+1,Debbie May,11 to 20 Years,2,4,0,1,280022,Less than 2 Years,3677,Speculation Strategy 2,Health Care/Long Term Care,6,2,41.260000000000005
+2,Kelly Curry,2 to 5 Years,0,1,3,0,249544,Lump Sum,9414,Income Strategy 3,Education Planning,1,0,24.04
+3,David Wright DVM,Immediate,4,2,1,3,207048,6 to 10 Years,6418,Aggressive Income Strategy 4,Retirement,3,1,19.52
